@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vicky Liu
 - 👀 I’m interested in contributing to website development and coding projects
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, a first year doing a Bsc Computer Science
 - 📫 How to reach me: vliu.blue@gmail.com
 - 😄 Pronouns: she/her
 
